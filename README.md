@@ -1,8 +1,9 @@
 # Script-bot
 Ngapain lu kesini cari script???
+Ada kok bang di bawah cara installnya 
 
 
-## Join Group Bot
+## Join Group Bot bang
 [`Group Whatsapp`](https://chat.whatsapp.com/FLmmp2dYa8EF3pEXR4cKok)
 ### FOR TERMUX USER
 ```bash
