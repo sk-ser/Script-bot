@@ -1,3 +1,6 @@
+## `deploy`
+
+
 # Script-bot
 Ngapain lu kesini cari script???
 Ada kok bang di bawah cara installnya 
