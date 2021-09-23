@@ -1,5 +1,3 @@
-## `deploy`
-https://git.heroku.com/counterteam.git
 
 # Script-bot
 Ngapain lu kesini cari script???
