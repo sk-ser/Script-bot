@@ -5,7 +5,7 @@ Ada kok bang di bawah cara installnya
 
 
 ## Join Group Bot bang
-[`Group Whatsapp`](https://chat.whatsapp.com/FLmmp2dYa8EF3pEXR4cKok)
+[`Group Whatsapp`](https://chat.whatsapp.com/ICjGJfIh2mpJ1WpK1PTCwt)
 ### FOR TERMUX USER
 ```bash
 > pkg update && pkg upgrade
