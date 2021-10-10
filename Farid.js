@@ -47,7 +47,7 @@ f = "⬡"
 prefa = "!"
 
 //🇮 🇸 🇮  🇦 🇵 🇮 🇰 🇪 🇾  🇲 🇺  🇩 🇮 🇸 🇮 🇳 🇮 
-const lolkey = 'a3114bbd7e15facf9c35afbd' //MASUKAN APIKEYMU DI DISINI, JANGAN LUPA BUKA DAN TUTUP PAKE TANDA ( ' ) CONTOH = 'APIKEYNYA'
+const lolkey = 'isi' //MASUKAN APIKEYMU DI DISINI, JANGAN LUPA BUKA DAN TUTUP PAKE TANDA ( ' ) CONTOH = 'APIKEYNYA'
 
 //DONASI 
 //NOTE : JIKA GA PUNYA, ISI JADI -
